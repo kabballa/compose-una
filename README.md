@@ -23,7 +23,7 @@ If you want to support our project and help us grow it, you can [become a sponso
 
 # Introducing Kabballa: Compose APP for UNA Applications Deployment
 
-This reverse proxy application efficiently routes incoming HTTP/HTTPS requests to a designated backend server. It is built using Caddy, offering robust features such as automatic HTTPS redirection, TLS encryption, CORS handling, caching, compression, and comprehensive security headers. This ensures secure and optimized communication between clients and backend services. Moreover, this application is designed to launch online UNA APPS alongside UNA Messenger, Jitsy Met, Jot server, and other related services.
+This application is designed to launch online UNA APPS alongside UNA Messenger, Jitsy Met, Jot server, and other related services.
 
 This application is part of a larger platform called **Kabballa**. Kabballa is a cutting-edge application designed to streamline the management and deployment of modern, scalable infrastructures. This platform supports a wide array of technologies, including MySQL, Redis, Nginx, PHP, Golang, Vite, Node.js, Memcached, Elasticsearch, and more. Leveraging the power of Kubernetes (K8s) or Docker Swarm, it provides an efficient way to host and orchestrate applications across multiple environments. Soon, Kabballa will become open source, inviting the community to contribute and innovate.
 
